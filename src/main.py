@@ -1,4 +1,3 @@
-# Here we demonstrate how we can create a simple coin toss agent that is compatible with DeltaV.
 
 # After running this agent, it can be registered to DeltaV on Agentverse's Services tab. For registration you will have to use the agent's address. 
 #
@@ -7,7 +6,6 @@
 from pydantic import Field
 from ai_engine import UAgentResponse, UAgentResponseType
 from uagents import Agent, Protocol, Context, Model
-from ai_engine import UAgentResponse, UAgentResponseType
 import google.generativeai as genai
 import requests
 
