@@ -3,7 +3,7 @@
 ### The Mars Tourism project aims to facilitate trip planning to Mars by utilizing NASA and SpaceX APIs. It provides users with information about available launchpads, rockets, and potential hazards such as asteroids during the planned travel dates, issuing warnings when necessary.
 <br/>
 
-![alt text](mars.jpeg)
+![alt text](src/public/assets/mars.jpeg)
 
 ## Video Demo
 
@@ -60,5 +60,5 @@ You can watch a Video Demo of Our project at: [Video Link](https://drive.google.
 
 ### Working
 
-![alt text](structure.png)
+![alt text](src/public/assets/structure.png)
 
